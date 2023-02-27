@@ -1,5 +1,0 @@
-classes = 105
-train = D:\Food_Detection_Project\darknetTest/training/train.txt
-valid = D:\Food_Detection_Project\darknetTest/training/test.txt
-names = D:\Food_Detection_Project\darknetTest/training/food105.names
-backup = D:\Food_Detection_Project\darknetTest/training/backup/
